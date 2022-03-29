@@ -1,0 +1,42 @@
+.bg--gris{
+    background-color: rgb(155, 163, 163);
+}
+
+.hr--separador{
+    height: 5px !important;
+    background-color: rgb(155, 163, 163);
+}
+
+.aj-imagen{
+    height: 127px;
+}
+
+.al-c-c{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.m--bootom-10{
+    margin-bottom: 10px;
+}
+
+.pos--btn{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#sec-1{
+    margin-top: 150px;
+}
+
+.img--perfil{
+    display: flex;
+    justify-content: center;
+}
+.aj-img--perfil{
+    height: 300px;
+    width: 300px;
+}
